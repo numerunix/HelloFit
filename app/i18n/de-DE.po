@@ -1,0 +1,8 @@
+msgid "Hello"
+msgstr "Hallo Francesca"
+
+msgid "Author"
+msgstr "aus Giulio Sorrentino"
+
+msgid "At"
+msgstr "die 20/06/2022"
