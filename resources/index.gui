@@ -1,0 +1,8 @@
+<svg>
+      <image href="background.png" />
+      <use href="#scrollview-item" height="300">
+        <text x="0" y="25%+15" class="defaultText">_Hello</text>
+        <text x="0" y="50%+15" class="defaultText">_Author</text>
+        <text x="0" y="75%+15" class="defaultText">_At</text>
+       </use>
+</svg>
