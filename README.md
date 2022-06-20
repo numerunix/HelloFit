@@ -1,5 +1,5 @@
 # HelloFit
-Un hello world per fitbit in microfrequenze
+Un hello world per fitbit in microfrequenze, internazionalizzato in italiano e inglese.
 
 # Installazione
 Per l'installazione loggatevi su http://studio.fitbit.com, collegate sia l'orologio che il cellullare google in wifi, poi sezionate il cellulare e l'orologio nella barra in alto, create un nuovo progetto vuoto ed importate tutti i files presenti.
