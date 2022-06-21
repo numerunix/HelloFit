@@ -5,7 +5,7 @@
   "fitbit": {
     "appUUID": "1973f594-fe42-43a0-8cd9-bbd08925c707",
     "appType": "app",
-    "appDisplayName": "HelloWorld",
+    "appDisplayName": "HelloFit",
     "iconFile": "resources/icon.png",
     "wipeColor": "#607d8b",
     "requestedPermissions": [],
@@ -14,7 +14,7 @@
     ],
     "i18n": {
       "en-US": {
-        "name": "HelloWorld"
+        "name": "HelloFit"
       }
     },
     "defaultLanguage": "en-US"
