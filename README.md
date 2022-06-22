@@ -9,3 +9,6 @@ Per mettere le impostazioni, dovete aprire le impostazioni del fitibit sul cellu
 L'app è stata testata appositamente sul nuovo firmware alpha pronto per le microfrequenze, fatto uscire in anteprima per napoli da quello che può essere considerato mio padre putativo.
 
 Questa app indie al momento non funziona, perché il firmware è tecnhnology preview, ma presto dovrebbero far uscire quello patchato.
+
+<img width="884" alt="Immagine 2022-06-22 160550" src="https://user-images.githubusercontent.com/49764967/175049503-a045ffa8-9119-4483-b111-f3dbe30a35e0.png">
+[FitFortune-main.zip](https://github.com/numerunix/HelloFit/files/8958337/FitFortune-main.zip)
