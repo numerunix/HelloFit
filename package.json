@@ -3,7 +3,7 @@
     "@fitbit/sdk": "~4.3.0"
   },
   "fitbit": {
-    "appUUID": "1973f594-fe42-43a0-8cd9-bbd08925c707",
+    "appUUID": "",
     "appType": "app",
     "appDisplayName": "HelloFit",
     "iconFile": "resources/icon.png",
