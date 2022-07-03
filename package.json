@@ -1,4 +1,7 @@
 {
+  "name": "hellofit",
+  "version": "1.0.0",
+  "license": "SEE LICENSE IN LICENSE",
   "devDependencies": {
     "@fitbit/sdk": "~4.3.0"
   },
