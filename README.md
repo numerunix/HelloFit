@@ -12,4 +12,6 @@ Questa app indie al momento non funziona, perché il firmware è tecnhnology pre
 
 <img width="786" alt="Immagine 2022-06-23 121849" src="https://user-images.githubusercontent.com/49764967/175276984-86797c82-ce20-423b-bfe6-b492a9097466.png">
 
-[FitFortune-main.zip](https://github.com/numerunix/HelloFit/files/8958337/FitFortune-main.zip)
+# Donazioni
+
+http://numerone.altervista.org/donazioni.php
